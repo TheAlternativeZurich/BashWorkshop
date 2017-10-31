@@ -2,6 +2,6 @@
 
 Additional material:
 
-- https://thealternative.ch/index.php?view=bashguide
-- http://wiki.bash-hackers.org/
+- [Our own guide](https://thealternative.ch/index.php?view=bashguide)
+- [The excellent Bash Hackers Wiki](http://wiki.bash-hackers.org/)
 
